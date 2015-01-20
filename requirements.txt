@@ -1,3 +1,4 @@
+gevent
 topia.termextract
 BeautifulSoup
 html2text

@@ -64,3 +64,5 @@ Redis-Semaphore==0.1.0
 python-slugify
 twilio
 six
+
+oboe
